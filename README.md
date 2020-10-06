@@ -11,9 +11,12 @@
 --------------------------------------------------------------------------------
 
 ## Project Divided Into Two Sides
-- Admin Side - who can add.
-- Student Side . 
+### Admin Side :- 
+- Can  add / delete / update   books .
+- Can see list of all books and list of all studemts
+- Can see list of all borrowed books by students .
+- Can search student by id . 
+- Have It's Own Profile Which Can (update his info / change password / delete account ) .
 
-
-![Image of Yaktocat](/assets/app-gif-screen.gif)
+![admin-side](/assets/admin-side.gif)
 
