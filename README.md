@@ -7,5 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Student Lbrary Projest 
+## Student Lbrary Projest
+--------------------------------------------------------------------------------
+
+## Project Divided Into Two Sides
+- Admin Side .
+-- who can add
+- Student Side . 
+
+
+![Image of Yaktocat](/assets/app-gif-screen.gif)
 
