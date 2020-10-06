@@ -11,13 +11,13 @@
 
 ## Student Lbrary Projest
 
-## Project Divided Into Two Sides
-### Admin Side :- 
+### Project Divided Into Two Sides -->
+
+#### Admin Side :- 
 - Can  add / delete / update   books .
 - Can see list of all books and list of all studemts
 - Can see list of all borrowed books by students .
 - Can search student by id . 
 - Have It's Own Profile Which Can (update his info / change password / delete account ) .
-<img src="admin-side.gif" alt="Build Status" align="center">
 ![admin-side](/admin-side.gif)
 
