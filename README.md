@@ -9,10 +9,10 @@
 
 --------------------------------------------------------------------------------
 
-## Student Library Projest
+# Student Library Projest
 
 ### Project Divided Into Two Sides -->
-<p>
+
 #### Admin Side :- 
 - Can  add / delete / update   books .
 - Can see list of all books and list of all studemts
@@ -21,7 +21,7 @@
 - Have It's Own Profile Which Can (update his info / change password / delete account ) .
 
 ![admin-side](/admin-side.gif)
-</p>
+
 
 <hr>
 
