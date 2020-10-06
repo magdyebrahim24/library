@@ -7,8 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Student Lbrary Projest
 --------------------------------------------------------------------------------
+
+## Student Lbrary Projest
 
 ## Project Divided Into Two Sides
 ### Admin Side :- 
@@ -17,6 +18,6 @@
 - Can see list of all borrowed books by students .
 - Can search student by id . 
 - Have It's Own Profile Which Can (update his info / change password / delete account ) .
-
+<img src="admin-side.gif" alt="Build Status" align="center">
 ![admin-side](/admin-side.gif)
 
