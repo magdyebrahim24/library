@@ -9,7 +9,7 @@
 
 --------------------------------------------------------------------------------
 
-## Student Lbrary Projest
+## Student Library Projest
 
 ### Project Divided Into Two Sides -->
 
