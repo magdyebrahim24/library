@@ -11,8 +11,7 @@
 --------------------------------------------------------------------------------
 
 ## Project Divided Into Two Sides
-- Admin Side .
-- - who can add
+- Admin Side - who can add.
 - Student Side . 
 
 
