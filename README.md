@@ -22,13 +22,13 @@
 
 ![admin-side](/admin-side.gif)
 
+<hr>
 
-#### Student Side :- 
-- Can  add / delete / update   books .
-- Can see list of all books and list of all studemts
-- Can see list of all borrowed books by students .
-- Can search student by id . 
-- Have It's Own Profile Which Can (update his info / change password / delete account ) .
+#### Student Side :-
+- Students can register to the website . 
+- Can   borrow / unborrow / view all   books .
+- Can see list of his borrowed books .
+- Have It's Own Profile Which Can (update his info / change password) .
 
 ![admin-side](/admin-side.gif)
 
