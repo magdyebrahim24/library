@@ -30,5 +30,5 @@
 - Can see list of his borrowed books .
 - Have It's Own Profile Which Can (update his info / change password) .
 
-![admin-side](/admin-side.gif)
+![admin-side](/student-side.gif)
 
