@@ -19,5 +19,16 @@
 - Can see list of all borrowed books by students .
 - Can search student by id . 
 - Have It's Own Profile Which Can (update his info / change password / delete account ) .
+
+![admin-side](/admin-side.gif)
+
+
+#### Student Side :- 
+- Can  add / delete / update   books .
+- Can see list of all books and list of all studemts
+- Can see list of all borrowed books by students .
+- Can search student by id . 
+- Have It's Own Profile Which Can (update his info / change password / delete account ) .
+
 ![admin-side](/admin-side.gif)
 
