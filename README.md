@@ -18,5 +18,5 @@
 - Can search student by id . 
 - Have It's Own Profile Which Can (update his info / change password / delete account ) .
 
-![admin-side](/assets/admin-side.gif)
+![admin-side](/admin-side.gif)
 
