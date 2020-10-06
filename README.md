@@ -26,9 +26,10 @@
 
 #### Student Side :-
 - Students can register to the website . 
-- Can   borrow / unborrow / view all   books .
+- Can   view all / borrow / unborrow  books .
+- Can view books details .
 - Can see list of his borrowed books .
 - Have It's Own Profile Which Can (update his info / change password) .
 
-![admin-side](/student-side.gif)
+![student-side](/student-side.gif)
 
